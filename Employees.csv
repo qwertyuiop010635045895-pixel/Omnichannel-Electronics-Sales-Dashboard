@@ -1,0 +1,61 @@
+﻿EmployeeID,EmployeeName,Department,City,Region,HireDate,Seniority
+501,Ali Hamdy,Sales,Alexandria,North Coast,2025-03-26,Lead
+502,Salma Saleh,Operations,Sohag,Upper Egypt,2020-05-31,Mid
+503,Salma Samir,Sales,Aswan,Upper Egypt,2023-07-14,Mid
+504,Mariam Amin,Account Management,Cairo,Greater Cairo,2020-01-04,Junior
+505,Nada Mansour,Operations,Giza,Greater Cairo,2024-01-10,Lead
+506,Nada Saeed,Operations,Tanta,Delta,2022-09-27,Lead
+507,Mostafa Hamdy,Sales,Fayoum,Upper Egypt,2019-02-15,Junior
+508,Laila Younes,Account Management,Beni Suef,Upper Egypt,2025-01-02,Lead
+509,Salma Hassan,Sales,Fayoum,Upper Egypt,2019-05-16,Senior
+510,Ahmed Ashraf,Sales,Zagazig,Delta,2023-12-11,Senior
+511,Omar Adel,Operations,Sohag,Upper Egypt,2024-11-14,Junior
+512,Ahmed Magdy,Sales,Cairo,Greater Cairo,2023-05-03,Senior
+513,Hana Mansour,Operations,Mansoura,Delta,2021-11-09,Lead
+514,Farah Gaber,Account Management,Sohag,Upper Egypt,2020-04-07,Junior
+515,Sara Hassan,Sales,Tanta,Delta,2024-04-01,Mid
+516,Dina Younes,Account Management,Sohag,Upper Egypt,2024-08-31,Senior
+517,Mohamed Mansour,Account Management,Alexandria,North Coast,2018-07-19,Junior
+518,Aya Hassan,Account Management,Tanta,Delta,2022-12-27,Junior
+519,Laila Hassan,Sales,Zagazig,Delta,2025-05-25,Senior
+520,Ahmed Younes,Sales,Aswan,Upper Egypt,2022-06-30,Junior
+521,Aya Nasser,Sales,Mansoura,Delta,2024-12-28,Mid
+522,Ali Saeed,Sales,Cairo,Greater Cairo,2018-09-12,Junior
+523,Dina Samir,Sales,Alexandria,North Coast,2020-01-23,Mid
+524,Khaled Fathy,Operations,Tanta,Delta,2025-03-02,Senior
+525,Laila Saleh,Sales,Tanta,Delta,2022-05-17,Lead
+526,Farah Amin,Account Management,Zagazig,Delta,2022-07-27,Lead
+527,Mariam Ibrahim,Account Management,Zagazig,Delta,2018-07-11,Mid
+528,Sara Farouk,Sales,Giza,Greater Cairo,2018-11-16,Senior
+529,Aya Adel,Account Management,Beni Suef,Upper Egypt,2021-01-24,Lead
+530,Nour Ashraf,Account Management,Alexandria,North Coast,2026-02-08,Lead
+531,Dina Magdy,Sales,Zagazig,Delta,2022-11-12,Lead
+532,Aya Kamal,Operations,Mansoura,Delta,2018-03-17,Lead
+533,Nada Saleh,Sales,Alexandria,North Coast,2019-05-02,Lead
+534,Farah Samir,Sales,Alexandria,North Coast,2022-04-26,Junior
+535,Mohamed Farouk,Sales,Tanta,Delta,2023-04-14,Junior
+536,Nour Hamdy,Operations,Zagazig,Delta,2021-05-04,Mid
+537,Hana Mostafa,Sales,Beni Suef,Upper Egypt,2021-05-29,Lead
+538,Hana Ashraf,Sales,Cairo,Greater Cairo,2019-11-25,Senior
+539,Nada Ashraf,Sales,Alexandria,North Coast,2024-06-27,Mid
+540,Aya Ashraf,Account Management,Fayoum,Upper Egypt,2019-08-04,Senior
+541,Ali Hassan,Sales,Giza,Greater Cairo,2018-11-20,Lead
+542,Karim Mostafa,Operations,Zagazig,Delta,2018-05-28,Junior
+543,Omar Ibrahim,Operations,Cairo,Greater Cairo,2025-06-02,Junior
+544,Nada Kamal,Operations,Mansoura,Delta,2023-02-06,Mid
+545,Karim Mansour,Sales,Beni Suef,Upper Egypt,2020-11-06,Lead
+546,Nada Saeed,Account Management,Beni Suef,Upper Egypt,2021-11-19,Junior
+547,Salma Gaber,Sales,Aswan,Upper Egypt,2025-10-14,Senior
+548,Mariam Ragab,Operations,Aswan,Upper Egypt,2023-07-16,Mid
+549,Aya Ibrahim,Operations,Giza,Greater Cairo,2018-05-10,Lead
+550,Ahmed Gaber,Operations,Beni Suef,Upper Egypt,2025-09-21,Junior
+551,Mohamed Amin,Sales,Zagazig,Delta,2025-09-01,Lead
+552,Khaled Mansour,Sales,Beni Suef,Upper Egypt,2025-01-09,Junior
+553,Nour Saleh,Sales,Sohag,Upper Egypt,2025-08-22,Junior
+554,Nada Younes,Sales,Tanta,Delta,2020-11-28,Lead
+555,Ahmed Hamdy,Sales,Aswan,Upper Egypt,2022-03-30,Mid
+556,Mahmoud Mostafa,Account Management,Aswan,Upper Egypt,2025-01-10,Junior
+557,Hana Ibrahim,Sales,Beni Suef,Upper Egypt,2023-12-11,Senior
+558,Khaled Ragab,Operations,Tanta,Delta,2022-10-10,Junior
+559,Mahmoud Saeed,Sales,Fayoum,Upper Egypt,2019-07-15,Junior
+560,Farah Mostafa,Sales,Alexandria,North Coast,2019-05-11,Lead
